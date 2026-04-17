@@ -1,8 +1,8 @@
-# Privacy Policy for Alazal Platform
+# Privacy Policy
 
-**Effective Date:** April 13, 2026
+**Effective Date:** April 17, 2026
 
-Alazal Platform ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our mobile application (the "App"). Please read this Privacy Policy carefully. 
+Safaa Jassim ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our mobile application, Alazal platform (the "App"). Please read this Privacy Policy carefully. 
 
 ## 1. Information We Collect
 We may collect information about you in a variety of ways. The information we may collect via the App includes:
@@ -14,8 +14,7 @@ We may collect information about you in a variety of ways. The information we ma
 ## 2. Use of Your Information
 Having accurate information about you permits us to provide you with a smooth, efficient, and customized educational experience. Specifically, we may use information collected about you via the App to:
 * Create and manage your account.
-* Deliver adaptive learning content and filmed lectures.
-* Monitor and analyze usage and trends to improve your experience with the App.
+* Deliver filmed lectures.
 * Notify you of updates to the App and your educational progress.
 * Resolve disputes and troubleshoot problems.
 
